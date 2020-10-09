@@ -1,7 +1,7 @@
 # Actualizaciones-WS16
 
 ¿Las actualizaciones se hacen de forma automática o manual?
-Las actualizaciones son automáticas, pero se puede configurar la hora y el día para que se descarguen y programar el reinicio.
+Las actualizaciones son automáticas, pero se puede configurar para instalarlo manualmente para que no afecte al rendimiento de la computadora.
 
 ¿Por qué interesa indicarle a que hora se pueden hacer las actualizaciones?
 es importante ya que el usuario está utilizando el ordenador durante la actualización.
